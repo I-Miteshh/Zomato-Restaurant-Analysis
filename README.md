@@ -1,6 +1,4 @@
-# ZomatoAnalysis-PowerBI
-
-# Power BI Dashboard
+# Zomato Restaurant Analysis-PowerBI
 
 ## Overview
 This repository contains a Power BI dashboard created using a sample CSV file. The dashboard provides visual insights into the data, showcasing various trends, patterns, and key metrics.
